@@ -59,8 +59,7 @@ Favorite posts are stored using their post IDs as keys.
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+git clone https://github.com/RodinaMohamed18/posts-app-hive.git```
 
 2. Navigate to the project directory:
 
